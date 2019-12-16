@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799794274460",
+    "firebase_url": "https://flash-chat-30922.firebaseio.com",
+    "project_id": "flash-chat-30922",
+    "storage_bucket": "flash-chat-30922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799794274460:android:e4d5865b36170e6d388d59",
+        "android_client_info": {
+          "package_name": "co.kudryk_oleksii.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799794274460-cd3fchb7fog1763tcatd96iol979f42c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLd68qFsed_Szfs7gzDVd0axWDnCzSyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799794274460-cd3fchb7fog1763tcatd96iol979f42c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
